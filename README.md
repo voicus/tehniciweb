@@ -1,4 +1,4 @@
-# etapa 0, deja facuta demult dar o pun si aici daca ma gandesc mai bine
+# etapa 0
 
 A.
 Informatiile vor fi impartite pe cateva categorii:
